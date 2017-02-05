@@ -69,7 +69,7 @@ def train_model(model, num_images):
         train_features.append(utils.load_image(image_path, row.is_flipped))
         train_labels.append(row.steering)
 
-    history = model.fit(np.array(train_features), np.array(train_labels), batch_size=10, nb_epoch=5, validation_split=0.2)
+    history = model.fit(np.array(train_features), np.array(train_labels), batch_size=10, nb_epoch=10, validation_split=0.2)
     save_model(model, 'model.json', 'model.h5')
 
     return history

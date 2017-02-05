@@ -9,7 +9,7 @@ DATA_PATH = '../data/'
 def remove_zero_bias(df):
     rows_with_steering_zero = df[(df.steering == 0)]
     total_rows_with_steering_zero = len(rows_with_steering_zero)
-    drop_indices = np.random.choice(rows_with_steering_zero.index, int(total_rows_with_steering_zero * 0.90),
+    drop_indices = np.random.choice(rows_with_steering_zero.index, int(total_rows_with_steering_zero * 0.95),
                                     replace=False)
 
     return df.drop(drop_indices)

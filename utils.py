@@ -46,7 +46,7 @@ def crop_image(image):
     return image[32:132]
 
 
-def load_image(image_path, steering, is_flipped):
+def load_image(image_path, is_flipped):
     image = cv2.imread(image_path)
     image = crop_image(image)
 

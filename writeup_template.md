@@ -8,8 +8,8 @@
     <meta charset='utf-8'>
     
 
-    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-298818692f75de57d67115ca5a0c1f983d1d5ad302774216c297495f46f0a3da.css" integrity="sha256-KYgYaS913lfWcRXKWgwfmD0dWtMCd0IWwpdJX0bwo9o=" media="all" rel="stylesheet" />
-    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-971365dd0886a318b4467344382a80e148a243434425d4acc0a474011257e428.css" integrity="sha256-lxNl3QiGoxi0RnNEOCqA4UiiQ0NEJdSswKR0ARJX5Cg=" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/frameworks-70aff62372b4dd20e8b7e3141aa52f2b7fda1b9238a597db09f7dd5bbcff25f6.css" integrity="sha256-cK/2I3K03SDot+MUGqUvK3/aG5I4pZfbCffdW7z/JfY=" media="all" rel="stylesheet" />
+    <link crossorigin="anonymous" href="https://assets-cdn.github.com/assets/github-08cdcb56c7ac00bff4aae0d624edc8c67749c10e28d857c247843a4fc05f22b0.css" integrity="sha256-CM3LVsesAL/0quDWJO3IxndJwQ4o2FfCR4Q6T8BfIrA=" media="all" rel="stylesheet" />
     
     
     
@@ -39,10 +39,10 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTA1MDA4MTY4OjkwMjkwMzdiNGJlN2M0M2VmNGUyMWZmYjY0NjI3OTlkZWM0NGRkNDIxYzM2ZmY1NjY5ZmYxY2EwZGVmODA2ZDE=--c0d41d68e907f2628350dcb69c919e75d6b5fd4c">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTA1MDA4MTY4OjFkNGY4ZTBjYmM0NmZlYTYxMzRkNDMzODg4YmEwYjY5NzViOTc0ZjdjZmRkYjA4ZTI4MmEzNDRmODdkYmNmZTY=--d8c0428751d771752928f553640a7eedba159259">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
-    <meta name="request-id" content="EED8:3AFE:83AE419:D3EE43F:5896E9B1" data-pjax-transient>
+    <meta name="request-id" content="F73A:2954:25D0611:3B3FC88:589F6E62" data-pjax-transient>
     
 
     <meta name="msapplication-TileImage" content="/windows-tile.png">
@@ -53,7 +53,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="EED8:3AFE:83AE419:D3EE43F:5896E9B1" name="octolytics-dimension-request_id" /><meta content="3655410" name="octolytics-actor-id" /><meta content="SamSamskies" name="octolytics-actor-login" /><meta content="ec89279d378e6ab57e27e21d255e81aac76ec58d0597c1a80111b03916b80df6" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="https://collector.githubapp.com/github-external/browser_event" name="octolytics-event-url" /><meta content="F73A:2954:25D0611:3B3FC88:589F6E62" name="octolytics-dimension-request_id" /><meta content="3655410" name="octolytics-actor-id" /><meta content="SamSamskies" name="octolytics-actor-login" /><meta content="ec89279d378e6ab57e27e21d255e81aac76ec58d0597c1a80111b03916b80df6" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -66,7 +66,7 @@
     <meta name="user-login" content="SamSamskies">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="MTc2Y2NhMjE2OTQzNWM3MDU4YjIxOWE2MDUyYTJhNjk4YTA5ZjA1MjQ1ZmJlYzIyMTlkMjlkM2IwYTFhNDM3YXx7InJlbW90ZV9hZGRyZXNzIjoiMjQuMTMwLjMzLjQ1IiwicmVxdWVzdF9pZCI6IkVFRDg6M0FGRTo4M0FFNDE5OkQzRUU0M0Y6NTg5NkU5QjEiLCJ0aW1lc3RhbXAiOjE0ODYyODUyMzMsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="YzA3OTZjOTVlNzU4NDc5ZmQ4Nzk3YjVjODc4NTM3NjQ5NTliMWUxYjQ2Y2NmMWU0MmIzYjA2ZGEzZTVlN2QxZnx7InJlbW90ZV9hZGRyZXNzIjoiMjA4Ljg3LjU2LjE5NCIsInJlcXVlc3RfaWQiOiJGNzNBOjI5NTQ6MjVEMDYxMTozQjNGQzg4OjU4OUY2RTYyIiwidGltZXN0YW1wIjoxNDg2ODQzNDkwLCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#000000">
@@ -74,7 +74,7 @@
 
     <meta name="html-safe-nonce" content="e5901e65d2afa5180adbce4bc0d69daea03acac7">
 
-    <meta http-equiv="x-pjax-version" content="77c1ce9bfc11dc6dc2aa6f98f23c5616">
+    <meta http-equiv="x-pjax-version" content="9e44fe7768334f3b9cfda34889b4b348">
     
 
       
@@ -99,11 +99,11 @@
 
 
 
-        <div class="header header-logged-in true" role="banner">
+        <div class="header header-dark header-logged-in true" role="banner">
   <div class="container clearfix">
 
     <a class="header-logo-invertocat" href="https://github.com/" data-hotkey="g d" aria-label="Homepage" data-ga-click="Header, go to dashboard, icon:logo">
-  <svg aria-hidden="true" class="octicon octicon-mark-github" height="28" version="1.1" viewBox="0 0 16 16" width="28"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
+  <svg aria-hidden="true" class="octicon octicon-mark-github" height="30" version="1.1" viewBox="0 0 16 16" width="30"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
 
 
@@ -227,7 +227,7 @@
           Settings
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="kR6hL7+C/5eMzvKW1BMScJtDGiYO/5vmQWraxVRPyiHjrQ261r8d24xwqiWk8RYEiYyexo6Fa2ITEbPNXOVpvg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="logout-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="fSblTo8Bn5YT/ucIPRa7USjrxGpO8ytdUhCMr6an2EUPlUnb5jx92hNAv7tN9L8lOiRAis6J29kAa+Wnrg172g==" /></div>
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -236,7 +236,11 @@
   </li>
 </ul>
 
-
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/logout" class="sr-only" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="VuiKxYSARx2WAVtnDXHSFm7Xh3Kxg7wG54P9HwgxF7EkWyZQ7b2lUZa/A9R9k9ZifBgDkjH5TIK1+JQXAJu0Lg==" /></div>
+      <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
+        Sign out
+      </button>
+</form>
     
   </div>
 </div>
@@ -263,7 +267,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="dNwT3abgIAyjX8qgY4AGt9T+h6mvvn+MvuDqwjlWHUPGUCo76uCPiEGYjBwjBHFrQNuQdWE27Ea2HFFSGGFC2A==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="78474167" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="zpy78ZIcZqTqRdL4GALTxYBZMP6Cfj65q3JqdkN5u3l8EIIX3hzJIAiClERYhqQZFHwnIkz2rXOjjtHmYk7k4g==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="78474167" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/udacity/CarND-Behavioral-Cloning-P3/subscription"
@@ -276,8 +280,8 @@
           </a>
           <a class="social-count js-social-count"
             href="/udacity/CarND-Behavioral-Cloning-P3/watchers"
-            aria-label="2 users are watching this repository">
-            2
+            aria-label="4 users are watching this repository">
+            4
           </a>
 
         <div class="select-menu-modal-holder">
@@ -337,8 +341,8 @@
   </li>
 
   <li>
-      <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Eqq6MbcnxfYbVlaBoPoD/a7lYvmuvxMq7LPGAzyl2Rz1FVmn/wVTHqZE1Rw0UUlSFBP/I/i/tvvTnyviTXwmeQ==" /></div>
+      <div class="js-toggler-container js-social-container starring-container on">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="A8PefHt0xZJCaKeQXkNbsHNaJ6iHe68qD8+LAhdimf/kfD3qM1ZTev96JA3K6BEfyay6ctF7Cvsw42bjZrtmmg==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -348,11 +352,11 @@
         Unstar
       </button>
         <a class="social-count js-social-count" href="/udacity/CarND-Behavioral-Cloning-P3/stargazers"
-           aria-label="0 users starred this repository">
-          0
+           aria-label="31 users starred this repository">
+          31
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Y26mda5PJ/uctr3psbqd9HgJUlJ3WljabKYZrLQhFRibbWIds6leW4ucDlAR2gFjnB5VeHD8ySkA7XFJ4gRIuA==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="c2tuHgUOhNFe33UL2tFqpxuVnv62Y3CVPXEPS6sQ/3iLaKp2GOj9cUn1xrJ6sfYw/4KZ1LHF4WZROmeu/TWi2A==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
@@ -362,8 +366,8 @@
         Star
       </button>
         <a class="social-count js-social-count" href="/udacity/CarND-Behavioral-Cloning-P3/stargazers"
-           aria-label="0 users starred this repository">
-          0
+           aria-label="31 users starred this repository">
+          31
         </a>
 </form>  </div>
 
@@ -389,8 +393,8 @@
           </div>
 
     <a href="/udacity/CarND-Behavioral-Cloning-P3/network" class="social-count"
-       aria-label="10 users forked this repository">
-      10
+       aria-label="74 users forked this repository">
+      74
     </a>
   </li>
 </ul>
@@ -431,7 +435,7 @@
     <a href="/udacity/CarND-Behavioral-Cloning-P3/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /udacity/CarND-Behavioral-Cloning-P3/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="counter">0</span>
+      <span class="counter">1</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
@@ -464,9 +468,9 @@
 
     
 
-<a href="/udacity/CarND-Behavioral-Cloning-P3/blob/5e736ba35db1d1f5be56a81621f76805a901b77a/writeup_template.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/udacity/CarND-Behavioral-Cloning-P3/blob/589111eedb1558cbe2cac61d0f7abd2f2cfa87b9/writeup_template.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:a8867046b85006fbb6d0379cb53a1f1e -->
+<!-- blob contrib key: blob_contributors:v21:f443525e253993dc6d9c257b5c79684f -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -552,36 +556,35 @@
 
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/udacity/CarND-Behavioral-Cloning-P3/commit/2da5d297d453c08614c8c0528450737daa5c8912" data-pjax>
-          2da5d29
+        <a class="commit-tease-sha" href="/udacity/CarND-Behavioral-Cloning-P3/commit/a23677b8598a2f3b63014ac37652a5813db5f500" data-pjax>
+          a23677b
         </a>
-        <relative-time datetime="2017-02-01T23:16:57Z">Feb 2, 2017</relative-time>
+        <relative-time datetime="2017-02-06T03:45:38Z">Feb 5, 2017</relative-time>
       </span>
       <div>
-        <img alt="@andrewpaster" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/4804880?v=3&amp;s=40" width="20" />
-        <a href="/andrewpaster" class="user-mention" rel="contributor">andrewpaster</a>
-          <a href="/udacity/CarND-Behavioral-Cloning-P3/commit/2da5d297d453c08614c8c0528450737daa5c8912" class="message" data-pjax="true" title="Added more info to README, included writeup template, changed drive.py to accept model.h5 file (#1)
-
-* modified README, drive.py to receive model.h5 file, and writeup template
-
-* changed filename in examples folder
-
-* clarified where students find simulator
-
-* fixed typo in README">Added more info to README, included writeup template, changed drive.p…</a>
+        <img alt="@manavkataria" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/2206789?v=3&amp;s=40" width="20" />
+        <a href="/manavkataria" class="user-mention" rel="contributor">manavkataria</a>
+          <a href="/udacity/CarND-Behavioral-Cloning-P3/commit/a23677b8598a2f3b63014ac37652a5813db5f500" class="message" data-pjax="true" title="Update Project Title to Behavioral Cloning (#4)">Update Project Title to Behavioral Cloning (</a><a href="https://github.com/udacity/CarND-Behavioral-Cloning-P3/pull/4" class="issue-link js-issue-link" data-url="https://github.com/udacity/CarND-Behavioral-Cloning-P3/issues/4" data-id="205474483" data-error-text="Failed to load issue title" data-permission-text="Issue title is private">#4</a><a href="/udacity/CarND-Behavioral-Cloning-P3/commit/a23677b8598a2f3b63014ac37652a5813db5f500" class="message" data-pjax="true" title="Update Project Title to Behavioral Cloning (#4)">)</a>
       </div>
 
     <div class="commit-tease-contributors">
       <button type="button" class="btn-link muted-link contributors-toggle" data-facebox="#blob_contributors_box">
-        <strong>1</strong>
-         contributor
+        <strong>2</strong>
+         contributors
       </button>
-      
+          <a class="avatar-link tooltipped tooltipped-s" aria-label="manavkataria" href="/udacity/CarND-Behavioral-Cloning-P3/commits/master/writeup_template.md?author=manavkataria"><img alt="@manavkataria" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/2206789?v=3&amp;s=40" width="20" /> </a>
+    <a class="avatar-link tooltipped tooltipped-s" aria-label="andrewpaster" href="/udacity/CarND-Behavioral-Cloning-P3/commits/master/writeup_template.md?author=andrewpaster"><img alt="@andrewpaster" class="avatar" height="20" src="https://avatars2.githubusercontent.com/u/4804880?v=3&amp;s=40" width="20" /> </a>
+
+
     </div>
 
     <div id="blob_contributors_box" style="display:none">
       <h2 class="facebox-header" data-facebox-id="facebox-header">Users who have contributed to this file</h2>
       <ul class="facebox-user-list" data-facebox-id="facebox-description">
+          <li class="facebox-user-list-item">
+            <img alt="@manavkataria" height="24" src="https://avatars2.githubusercontent.com/u/2206789?v=3&amp;s=48" width="24" />
+            <a href="/manavkataria">manavkataria</a>
+          </li>
           <li class="facebox-user-list-item">
             <img alt="@andrewpaster" height="24" src="https://avatars0.githubusercontent.com/u/4804880?v=3&amp;s=48" width="24" />
             <a href="/andrewpaster">andrewpaster</a>
@@ -608,12 +611,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/edit/master/writeup_template.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="/W5x92wY0W71e61YWLTWO2xE+BYctAM3IdtaAdJ66NrCfi8vLLCIhBquwzDCPvHIPYdaCAKS4vWrd6VOqkirCg==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/edit/master/writeup_template.md" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="L5Lppn2RoKpEMeE5pjSdYqxtD5kkXF/vlsapgCooXnUQgrd+PTn5QKvkj1E8vrqR/a6thzp6vi0calbPUhodpQ==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/delete/master/writeup_template.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="IO3TU4r21gjkuzXGKKi8EJ1JT725+NqQj9apjxHOGx54VRbpt9PDUex8bU/7beI6lmBIjYTrPbJ2pmFjYvsV6g==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/udacity/CarND-Behavioral-Cloning-P3/delete/master/writeup_template.md" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+HKjQ0svSw8ErzPZNKf09YZBIfJbw95qjK+HZgl3K7igymb5dgpeVgxoa1DnYqrfjWgmwmbQOUh130+KekIlTA==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -621,15 +624,15 @@
 </form>  </div>
 
   <div class="file-info">
-      129 lines (76 sloc)
+      130 lines (76 sloc)
       <span class="file-info-divider"></span>
-    5.75 KB
+    5.74 KB
   </div>
 </div>
 
   
   <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-traffic-sign-recognition" class="anchor" href="#traffic-sign-recognition" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><strong>Traffic Sign Recognition</strong></h1>
+    <article class="markdown-body entry-content" itemprop="text"><h1><a id="user-content-behavioral-cloning" class="anchor" href="#behavioral-cloning" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a><strong>Behavioral Cloning</strong></h1>
 
 <h2><a id="user-content-writeup-template" class="anchor" href="#writeup-template" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Writeup Template</h2>
 
@@ -792,7 +795,7 @@
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"/></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2017 <span title="0.10651s from github-fe143-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2017 <span title="0.09290s from github-fe-5989992.cp1-iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
@@ -816,8 +819,8 @@
 
 
       
-      <script crossorigin="anonymous" integrity="sha256-l96JcOm40vbROHPVCcxZsvNfQQZb1VyY69CSP4/m0eU=" src="https://assets-cdn.github.com/assets/frameworks-97de8970e9b8d2f6d13873d509cc59b2f35f41065bd55c98ebd0923f8fe6d1e5.js"></script>
-      <script async="async" crossorigin="anonymous" integrity="sha256-/XesGinDVumCcvg69oCNpbH0lU9YjMQtCVKOQ/wSyp8=" src="https://assets-cdn.github.com/assets/github-fd77ac1a29c356e98272f83af6808da5b1f4954f588cc42d09528e43fc12ca9f.js"></script>
+      <script crossorigin="anonymous" integrity="sha256-yLYY7zvjJ3PYRp69aU73ReRebHprA0Yf/QWYDUYl26Y=" src="https://assets-cdn.github.com/assets/frameworks-c8b618ef3be32773d8469ebd694ef745e45e6c7a6b03461ffd05980d4625dba6.js"></script>
+      <script async="async" crossorigin="anonymous" integrity="sha256-oBRAv7/MTVCcswk1P/Z6es5bgt7kENOSTFbHdxJE3YQ=" src="https://assets-cdn.github.com/assets/github-a01440bfbfcc4d509cb309353ff67a7ace5b82dee410d3924c56c7771244dd84.js"></script>
       
       
       

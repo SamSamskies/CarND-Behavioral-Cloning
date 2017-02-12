@@ -12,13 +12,11 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/placeholder.png "Model Visualization"
-[image2]: ./examples/placeholder.png "Grayscaling"
-[image3]: ./examples/placeholder_small.png "Recovery Image"
-[image4]: ./examples/placeholder_small.png "Recovery Image"
-[image5]: ./examples/placeholder_small.png "Recovery Image"
-[image6]: ./examples/placeholder_small.png "Normal Image"
-[image7]: ./examples/placeholder_small.png "Flipped Image"
+[model_architecture]: ./images/model.png "Model Architechture"
+[center_example]: ./images/center-example.png "Center example"
+[left_recovery]: ./images/left-recovery.png "Left Recovery"
+[right_recovery]: ./images/right-recovery.png "Right Recovery"
+[cropped_and_flipped]: ./images/cropped-and-flipped.png "Cropped and flipped"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/432/view) individually and describe how I addressed each point in my implementation.  
@@ -85,22 +83,24 @@ The final step was to run the simulator to see how well the car was driving arou
 ####2. Final Model Architecture
 
 Here is a visualization of the final model architecture (model.py lines 29-55):
-![model architecture][/images/model.png]
+
+![alt text][model_architecture]
 
 ####3. Creation of the Training Set & Training Process
 
 First, I checked out the center images to get an idea what I was working with:
-![center example][/images/center-example.png]
+
+![alt text][center_example]
 
 Then I explored the left and right images with calculated recovery angels:
 
-![left recovery][/images/left-recovery.png]
-![right recovery][/images/right-recovery.png]
+![alt text][left_recovery]
+![alt text][right_recovery]
 
-To augment the data set, I also flipped images and angles to try and help the model learn more about different types of turns. I also cropped the image to git rid of most of the sky since I only wanted to train my model with features on the road. Here is an image that has been cropped and flipped:
+To augment the dataset, I also flipped images and angles to try and help the model learn more about different types of turns. I also cropped the image to git rid of most of the sky since I only wanted to train my model with features on the road. Here is an image that has been cropped and flipped:
 
-![cropped and flipped][/images/cropped-and-flipped.png]
+![alt text][cropped_and_flipped]
 
-I used [sample training data](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip) provided by Udacity that had 8036 data points. I then preprocessed this data by ...
+I used [sample training data](https://d17h27t6h515a5.cloudfront.net/topher/2016/December/584f6edd_data/data.zip) provided by Udacity that had 8036 data points. I then preprocessed this data by removing 95% of images with 0 steering angle to remove bias for going straight, augmenting with recovery angels and flipping, and cropping the images. After the preprocessing, I ended up with 24672 data points. I only ended up training my model with a random sample of only 2000 data points though. The car was able to successfully make it around the track continously even though I only trained my model with that small dataset. When I have more time, I plan to try training with the full set and to adjust the architecture to try and reduce the number of parameters needed.
 
-I used Keras to train the model, using 20% of the data for validation. Keras shuffled the data for me. this training data for training the model. The validation set helped determine if the model was over or under fitting. I found the ideal number of epochs to be around 10 by experimentation. I used an adam optimizer so that manually training the learning rate wasn't necessary.
+I used Keras to train the model, using 20% of the data for validation. Keras shuffled the data for me. The validation set helped determine if the model was over or under fitting. I found the ideal number of epochs to be around 10 by experimentation. I used an adam optimizer so that manually training the learning rate wasn't necessary.
